@@ -15,7 +15,7 @@
             "security": {
               "allowedHosts": [
                 "macelo-portfolio.netlify.app",
-                "celebrated-starship-455994.netlify.app"
+                "*.netlify.app"
               ]
             },
             "index": "src/index.html",
